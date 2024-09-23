@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Code Study
-    url:               /code-study/
+    url:               /blog/code-study/
   - title:             Projects
     url:               /projects/
   - title:             Journey
@@ -292,7 +292,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         
+    permalink:         /blog/:name/
     output:            true
 
   featured_tags:
