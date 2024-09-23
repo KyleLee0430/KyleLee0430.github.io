@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Code Study
-    url:               /code-study/
+    url:               /_featured_categories/code-study/
   - title:             Projects
     url:               /projects/
   - title:             Journey
