@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               One at a Time, Go with the Flow.
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,21 +42,21 @@ logo:                  /assets/img/tibetan_fox.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Gijin Lee
+  email:               kylelee0430@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
+  - title:             Code Study
     url:               /blog/
   - title:             Projects
     url:               /projects/
+  - title:             Journey
+    url:               /docs/
   - title:             Résumé*
     url:               /resume/
-  - title:             Documentation
-    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -95,7 +95,7 @@ paginate_path:         /blog/:num/
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/Pan_Am.jpg
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(255, 205, 0) # rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
