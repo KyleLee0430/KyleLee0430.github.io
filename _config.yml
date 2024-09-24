@@ -292,7 +292,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /:name/
+    permalink:         /:name/ # /blog/:name/ 하면 blog 하위의 모든 태그들을 포함. ex. _featured_categories 폴더 내의 모든 태그는 /blog/이름/ 의 식으로 위에 입력해야됨.
     output:            true
 
   featured_tags:
